@@ -1,2 +1,3 @@
-# modern-analytics-dashboard-v7dl
-A repository to test GitHub automation for issue management
+# Modern Analytics Dashboard V7Dl
+
+A repository to test GitHub automation for issue management.
